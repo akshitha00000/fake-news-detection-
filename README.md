@@ -7,6 +7,7 @@ This project detects whether a news article is **real or fake** using Natural La
 📁 Dataset
 
 The dataset used in this project contains labeled news articles classified as real or fake. It was used to train and test the machine learning model.
+Data source:kaggle 
 
 🚀 Technologies Used
 
