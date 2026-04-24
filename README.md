@@ -4,6 +4,10 @@
 
 This project detects whether a news article is **real or fake** using Natural Language Processing (NLP) and Machine Learning techniques.
 
+📁 Dataset
+
+The dataset used in this project contains labeled news articles classified as real or fake. It was used to train and test the machine learning model.
+
 🚀 Technologies Used
 
 * Python
