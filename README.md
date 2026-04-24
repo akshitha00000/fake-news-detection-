@@ -1,17 +1,17 @@
 # 📰 Fake News Detection
 
-## 📌 Description
+ 📌 Description
 
 This project detects whether a news article is **real or fake** using Natural Language Processing (NLP) and Machine Learning techniques.
 
-## 🚀 Technologies Used
+🚀 Technologies Used
 
 * Python
 * Pandas, NumPy
 * Scikit-learn
 * NLP (TF-IDF Vectorizer)
 
-## ⚙️ Project Workflow
+ ⚙️ Project Workflow
 
 1. Data Collection
 2. Data Preprocessing
@@ -19,16 +19,15 @@ This project detects whether a news article is **real or fake** using Natural La
 4. Model Training
 5. Prediction (Real/Fake)
 
-## 📊 Result
+📊 Result
+The model achieved around 85–95% accuracy in detecting fake news.
 
-The model successfully classifies news articles with good accuracy.
-
-## 📁 Files Included
+📁 Files Included
 
 * fake_news_detection.ipynb
 * requirements.txt
 * dataset (if added)
 
-## 👩‍💻 Author
+👩‍💻 Author
 
 kindhikere akshitha
